@@ -4,11 +4,11 @@ ___
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" width="340">
+    <td valign="top">
       <a href="https://github.com/SAMIR897/rfetch">
         <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/rfetch&mode=dark&style=horizontal" alt="bulk_token_sender" width="320"/>
       </a>
-    </td>
+    </td></tr><tr>
     <td valign="middle" width="20"></td>
     <td valign="middle">
       A blazing fast, cross-platform system information tool written in Rust.
