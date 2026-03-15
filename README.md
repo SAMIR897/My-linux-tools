@@ -6,7 +6,7 @@ ___
   <tr>
     <td valign="top" width="340">
       <a href="https://github.com/SAMIR897/rfetch">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/rfetch&mode=dark&style=vertical" alt="bulk_token_sender" width="320"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/rfetch&mode=dark&style=horizontal" alt="bulk_token_sender" width="320"/>
       </a>
     </td>
     <td valign="middle" width="20"></td>
