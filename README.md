@@ -5,7 +5,7 @@ ___
   <tr>
     <td>
       <a href="https://github.com/SAMIR897/rfetch">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/rfetch&mode=dark&style=horizontal" alt="rfetch"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/rfetch&mode=light&style=horizontal" alt="rfetch"/>
       </a>
     </td>
   </tr>
